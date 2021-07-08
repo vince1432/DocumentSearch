@@ -1,0 +1,16 @@
+C:\Users\vincer\Desktop\Projects\Winforms\DocumentSearch\bin\Release\Document Search System.exe.config
+C:\Users\vincer\Desktop\Projects\Winforms\DocumentSearch\bin\Release\Document Search System.exe
+C:\Users\vincer\Desktop\Projects\Winforms\DocumentSearch\bin\Release\Document Search System.pdb
+C:\Users\vincer\Desktop\Projects\Winforms\DocumentSearch\bin\Release\DotNetEnv.dll
+C:\Users\vincer\Desktop\Projects\Winforms\DocumentSearch\bin\Release\Sprache.dll
+C:\Users\vincer\Desktop\Projects\Winforms\DocumentSearch\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vincer\Desktop\Projects\Winforms\DocumentSearch\bin\Release\Sprache.xml
+C:\Users\vincer\Desktop\Projects\Winforms\DocumentSearch\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\vincer\Desktop\Projects\Winforms\DocumentSearch\obj\Release\DocumentSearch.csprojAssemblyReference.cache
+C:\Users\vincer\Desktop\Projects\Winforms\DocumentSearch\obj\Release\DocumentSearch.MainForm.resources
+C:\Users\vincer\Desktop\Projects\Winforms\DocumentSearch\obj\Release\DocumentSearch.Properties.Resources.resources
+C:\Users\vincer\Desktop\Projects\Winforms\DocumentSearch\obj\Release\DocumentSearch.csproj.GenerateResource.cache
+C:\Users\vincer\Desktop\Projects\Winforms\DocumentSearch\obj\Release\DocumentSearch.csproj.CoreCompileInputs.cache
+C:\Users\vincer\Desktop\Projects\Winforms\DocumentSearch\obj\Release\DocumentSearch.csproj.CopyComplete
+C:\Users\vincer\Desktop\Projects\Winforms\DocumentSearch\obj\Release\Document Search System.exe
+C:\Users\vincer\Desktop\Projects\Winforms\DocumentSearch\obj\Release\Document Search System.pdb
