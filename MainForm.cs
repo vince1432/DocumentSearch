@@ -99,6 +99,11 @@ namespace DocumentSearch
             Cursor = Cursors.Hand;
         }
 
+        private void reset_label_MouseLeave(object sender, EventArgs e)
+        {
+            Cursor = Cursors.Default;
+        }
+
         private void reset_label_Click(object sender, EventArgs e)
         {
             Label label = (Label)sender;

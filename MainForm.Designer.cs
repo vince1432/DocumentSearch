@@ -269,6 +269,7 @@ namespace DocumentSearch
             this.reset_label.TabIndex = 54;
             this.reset_label.Text = "検索条件をリセットする\r\n";
             this.reset_label.Click += new System.EventHandler(this.reset_label_Click);
+            this.reset_label.MouseLeave += new System.EventHandler(this.reset_label_MouseLeave);
             this.reset_label.MouseHover += new System.EventHandler(this.reset_label_MouseHover);
             // 
             // search_button
